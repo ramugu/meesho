@@ -1,0 +1,126 @@
+.ml{
+    margin-left: 200px;
+}
+.ml2{
+    margin-left: 200px;
+    padding-left: 50px;
+}
+.ml3
+{
+    text-align: center;
+}
+.ml4{
+    margin-left: 110px;
+    /* border: 1px solid black; */
+    width: 450px;
+}
+.button1
+{
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    padding: 10px 110px;
+    border: 1px solid black;
+    background: purple;
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.nav-li{
+    text-align: justify;
+    padding-left: 90px;
+    color: black;
+    font-weight: bold;
+}
+.nav-li a {
+    color: black;
+}
+.he{
+    padding-left: 50px;
+    font-weight: bold;
+}
+.bg{
+    background-image: url("img/img7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    padding-left: 60px;
+}
+.col1
+{
+    margin-top: 90px;
+}
+.col2
+{
+    margin-top: 230px;
+}
+.bg2{
+    background-image: url("img/img7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    padding-left: 60px;
+    margin-top: 90px;
+}
+.bt2{
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+.bt3{
+    margin-left: 110px;
+    margin-top: 50px;
+    text-align: center;
+}
+.hlo{
+    text-align: center;
+    margin-top: 200px;
+}
+.bg3{
+    background-image: url("img/img15.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    padding-left: 60px;
+    margin-top: 90px;
+}
+.ylo{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.st
+{
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background: purple;
+    color: white;
+}
+.bg4{
+    background-image: url("img/img17.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    padding-left: 60px;
+    margin-top: 90px;
+}
+.st2{
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background: purple;
+    color: white;
+    font-size: 20px;
+
+}
+.pl p{
+    padding-left: 40px;
+}
+.nav-li2{
+    font-weight: 700;
+}
